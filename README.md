@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @Vishesh-coder
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Front-end Web Developement
-- 🖼️ I can make a full functional website using mainly HTML, CSS and some of JS
-- 📫 to reach me, email - visheshbindal2007@gmail.com
-- 🌐 My Website - https://visheshbindal.epizy.com/
+### Hi there 👋
