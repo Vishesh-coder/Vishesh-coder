@@ -1,4 +1,4 @@
-### <h1 align="center"> Hello there 👋, My Name is Vishesh Bindal </h1>
+### <h1 align="center"> Hello there <img src="https://raw.githubusercontent.com/vitasha10/vitasha10/main/assets/Hand%20Wave.gif" height="40" width="40">, My Name is Vishesh Bindal </h1>
 #### <h3 align="center"> I am a Front-end Web Developer</h3>
 ![I am a Front-end Web Developer](https://i.ibb.co/s2fmgKb/Hi-this-is-Vishesh-Bindal.png)
 
