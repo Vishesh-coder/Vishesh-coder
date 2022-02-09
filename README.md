@@ -8,8 +8,6 @@ I am Vishesh Bindal from India, a Front-end Web Developer with Mainly HTML, CSS 
 * HTML
 * CSS
 * Javascript
-
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Javascript for Web development 
 - 📫 How to reach me: visheshbindal2007@gmail.com 
 
