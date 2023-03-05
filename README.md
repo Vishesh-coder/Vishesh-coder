@@ -11,7 +11,7 @@ I am Vishesh Bindal from India, a Front-end Web Developer with Mainly HTML, CSS 
 
 
 ### Connect with Me :
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Vishesh-coder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Vishesh-coder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCwOy7VuFyAvna3Ttu3YRl8g)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://visheshbindal.epizy.com/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Vishesh-coder)  [<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nicepng.com%2Fmaxp%2Fu2q8e6w7w7w7r5i1%2F&psig=AOvVaw2Px77apBGC_iIUgkrmc4wV&ust=1678098183957000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOip1IPJxP0CFQAAAAAdAAAAABAE' alt='codepen' height='40'>](https://codepen.io/Vishesh-coder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCwOy7VuFyAvna3Ttu3YRl8g)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://visheshbindal.epizy.com/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vishesh-coder)](https://github.com/ryo-ma/github-profile-trophy)
 
