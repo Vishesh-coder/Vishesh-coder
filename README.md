@@ -11,7 +11,11 @@ I am Vishesh Bindal from India, a Front-end Web Developer with Mainly HTML, CSS 
 
 
 ### Connect with Me :
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Vishesh-coder)  [<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nicepng.com%2Fmaxp%2Fu2q8e6w7w7w7r5i1%2F&psig=AOvVaw2Px77apBGC_iIUgkrmc4wV&ust=1678098183957000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOip1IPJxP0CFQAAAAAdAAAAABAE' alt='codepen' height='40'>](https://codepen.io/Vishesh-coder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCwOy7VuFyAvna3Ttu3YRl8g)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://visheshbindal.epizy.com/)  
+<a href="https://github.com/vishesh-coder"><img src='https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png' title="Github" height='40'></a>
+<a href="https://visheshbindal.epizy.com/"><img src='https://user-images.githubusercontent.com/72369470/222955220-59245468-208e-405d-af06-cc0eec5caf99.png' title="Website" height='45'></a>
+<a href="https://codepen.io/vishesh-coder"><img src='https://res.cloudinary.com/pashagord/image/upload/v1468545314/Portfolio/logos/codepen_logo.png' title="Codepen" height='40'></a>
+<a href="https://visheshbindal.blogspot.com/"><img src='https://www.freeiconspng.com/thumbs/blogger-logo-icon-png/blogger-logo-icon-png-10.png' title="Blogspot" height='40'></a>
+<a href="https://youtube.com/@visheshbindal"><img src='https://user-images.githubusercontent.com/72369470/222955580-7928292f-227e-4196-8111-920ee0c63d3e.png' title="YouTube" height='40'></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vishesh-coder)](https://github.com/ryo-ma/github-profile-trophy)
 
