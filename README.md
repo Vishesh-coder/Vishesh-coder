@@ -4,7 +4,7 @@
 
 I am Vishesh Bindal from India, a Front-end Web Developer with Mainly HTML, CSS and some of Javascript!
 
-- 🌱 I’m currently learning Javascript for Web development 
+- 🌱 I’m currently preparing for JEE 2025
 - 📫 To reach me, email: visheshbindal2007@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
