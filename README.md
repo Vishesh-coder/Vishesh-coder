@@ -8,7 +8,12 @@ I am Vishesh Bindal from India, a Front-end Web Developer with Mainly HTML, CSS 
 - 📫 To reach me, email: visheshbindal2007@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/Vishesh-coder/Vishesh-coder/assets/72369470/bac048c8-b5dd-4ac0-b3e5-9d06bcd27dce" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/Vishesh-coder/Vishesh-coder/assets/72369470/75e969d5-9340-4bb2-b720-500e63e06324" alt="css3" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Vishesh-coder/Vishesh-coder/assets/72369470/f86caf22-2692-4f10-a566-785264901072" alt="html5" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/Vishesh-coder/Vishesh-coder/assets/72369470/9d8c4a1f-7cc1-4dc4-b746-02fad3e5c8aa" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/Vishesh-coder/Vishesh-coder/assets/72369470/bac048c8-b5dd-4ac0-b3e5-9d06bcd27dce" alt="arduino" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/Vishesh-coder/Vishesh-coder/assets/72369470/75e969d5-9340-4bb2-b720-500e63e06324" alt="css3" width="50" height="50"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Vishesh-coder/Vishesh-coder/assets/72369470/f86caf22-2692-4f10-a566-785264901072" alt="html5" width="50" height="50"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/Vishesh-coder/Vishesh-coder/assets/72369470/9d8c4a1f-7cc1-4dc4-b746-02fad3e5c8aa" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Vishesh-coder/Vishesh-coder/assets/72369470/b9d97091-e702-4383-93f3-5736c1f2f2b3" alt="jQuery" width="40" height="40"/> </a> </p>
 
 
 ### Connect with Me :
@@ -21,7 +26,5 @@ I am Vishesh Bindal from India, a Front-end Web Developer with Mainly HTML, CSS 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vishesh-coder)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishesh-coder&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Vishesh-coder)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Vishesh-coder)  
