@@ -1,6 +1,6 @@
 ### <h1 align="center"> Hello there, My Name is Vishesh Bindal </h1>
 #### <h3 align="center"> I am a Front-end Web Developer</h3>
-![I am a Front-end Web Developer](https://i.ibb.co/s2fmgKb/Hi-this-is-Vishesh-Bindal.png)
+![I am a Front-end Web Developer](https://github.com/Vishesh-coder/Vishesh-coder/assets/72369470/95b38fa0-9efe-4485-a8c8-fd552efc822c)
 
 I am Vishesh Bindal from India, a Front-end Web Developer with Mainly HTML, CSS and some of Javascript!
 
