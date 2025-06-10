@@ -4,7 +4,7 @@
 
 I am Vishesh Bindal from India, a Front-end Web Developer with Mainly HTML, CSS and some of Javascript!
 
-- 🌱 I’m currently preparing for JEE 2025
+- 🌱 Gave JEE 2025
 - 📫 To reach me, email: visheshbindal2007@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,7 +18,7 @@ I am Vishesh Bindal from India, a Front-end Web Developer with Mainly HTML, CSS 
 
 ### Connect with Me :
 <a href="https://github.com/vishesh-coder"><img src='https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png' title="Github" height='40'></a>
-<a href="https://visheshbindal.epizy.com/"><img src='https://user-images.githubusercontent.com/72369470/222955220-59245468-208e-405d-af06-cc0eec5caf99.png' title="Website" height='45'></a>
+<a href="https://visheshbindal.netlify.app/"><img src='https://user-images.githubusercontent.com/72369470/222955220-59245468-208e-405d-af06-cc0eec5caf99.png' title="Website" height='45'></a>
 <a href="https://codepen.io/vishesh-coder"><img src='https://res.cloudinary.com/pashagord/image/upload/v1468545314/Portfolio/logos/codepen_logo.png' title="Codepen" height='40'></a>
 <a href="https://visheshbindal.blogspot.com/"><img src='https://www.freeiconspng.com/thumbs/blogger-logo-icon-png/blogger-logo-icon-png-10.png' title="Blogspot" height='40'></a>
 <a href="https://youtube.com/@visheshbindal"><img src='https://user-images.githubusercontent.com/72369470/222955580-7928292f-227e-4196-8111-920ee0c63d3e.png' title="YouTube" height='40'></a>
