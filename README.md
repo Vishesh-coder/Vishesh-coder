@@ -26,6 +26,4 @@ I am Vishesh Bindal from India, a Front-end Web Developer with Mainly HTML, CSS 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vishesh-coder)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishesh-coder&show_icons=true)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Vishesh-coder)  
