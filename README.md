@@ -18,7 +18,6 @@ I am Vishesh Bindal from India, a Front-end Web Developer with Mainly HTML, CSS 
 
 
 ### Connect with Me :
-<a href="https://github.com/vishesh-coder"><img src='https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png' title="Github" height='40'></a>
 <a href="https://visheshbindal.netlify.app/"><img src='https://github.com/user-attachments/assets/236284f4-e5c3-4c24-9d8e-ae0e9ec6b2d2' title="Website" height='45'></a>
 <a href="https://codepen.io/vishesh-coder"><img src='https://res.cloudinary.com/pashagord/image/upload/v1468545314/Portfolio/logos/codepen_logo.png' title="Codepen" height='40'></a>
 <a href="https://visheshbindal.blogspot.com/"><img src='https://www.freeiconspng.com/thumbs/blogger-logo-icon-png/blogger-logo-icon-png-10.png' title="Blogspot" height='40'></a>
