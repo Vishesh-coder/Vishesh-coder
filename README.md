@@ -1,12 +1,19 @@
-### <h1 align="center"> Hello there, My Name is Vishesh Bindal </h1>
-#### <h3 align="center"> A Tech & Electronics Enthusiast </h3>
-![I am a Front-end Web Developer](https://github.com/Vishesh-coder/Vishesh-coder/assets/72369470/95b38fa0-9efe-4485-a8c8-fd552efc822c)
+### <h1 align="center"> Hello there, I'm Vishesh Bindal 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Front-End+Web+Developer;Tech+and+Electronics+Enthusiast;Passionate+About+Coding" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Vishesh-coder/Vishesh-coder/assets/72369470/95b38fa0-9efe-4485-a8c8-fd552efc822c" alt="Web Developer" />
+</p>
 
 I am Vishesh Bindal from India, a student currently pursuing B.Tech in Electronics & Communications !
 
 - 🌱 Gave JEE 2025!
 
 - 📫 To reach me, email: visheshbindal2007@gmail.com
+
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -23,6 +30,17 @@ I am Vishesh Bindal from India, a student currently pursuing B.Tech in Electroni
 <a href="https://visheshbindal.blogspot.com/"><img src='https://www.freeiconspng.com/thumbs/blogger-logo-icon-png/blogger-logo-icon-png-10.png' title="Blogspot" height='40'></a>
 <a href="https://youtube.com/@visheshbindal"><img src='https://user-images.githubusercontent.com/72369470/222955580-7928292f-227e-4196-8111-920ee0c63d3e.png' title="YouTube" height='40'></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vishesh-coder)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Vishesh-coder)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishesh%20Bindal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishesh-bindal)
+
+<!-- <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Vishesh-coder&theme=dracula" alt="Vishesh-coder GitHub Trophies" />
+  </a>
+</p> -->
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishesh-coder&theme=dracula" alt="Vishesh-coder GitHub Streak" />
+  </a>
+</p>
