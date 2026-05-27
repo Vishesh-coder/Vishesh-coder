@@ -1,4 +1,4 @@
-### <h1 align="center"> Hello there, I'm Vishesh Bindal 👋</h1>
+### <h1 align="center"> Hello there👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Front-End+Web+Developer;Tech+and+Electronics+Enthusiast;Passionate+About+Coding" alt="Typing SVG" />
@@ -8,7 +8,7 @@
   <img src="https://github.com/Vishesh-coder/Vishesh-coder/assets/72369470/95b38fa0-9efe-4485-a8c8-fd552efc822c" alt="Web Developer" />
 </p>
 
-I am Vishesh Bindal from India, a student currently pursuing B.Tech in Electronics & Communications !
+A student currently pursuing B.Tech in Electronics & Communications and following passion !
 
 - 🌱 Gave JEE 2025!
 
