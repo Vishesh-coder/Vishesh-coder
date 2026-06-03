@@ -39,8 +39,8 @@ A student currently pursuing B.Tech in Electronics & Communications and followin
   </a>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishesh-coder&theme=dracula" alt="Vishesh-coder GitHub Streak" />
   </a>
-</p>
+</p> -->
