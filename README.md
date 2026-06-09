@@ -33,14 +33,14 @@ A student currently pursuing B.Tech in Electronics & Communications and followin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishesh%20Bindal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishesh-bindal)
 
-<!-- <p align="center">
+ <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Vishesh-coder&theme=dracula" alt="Vishesh-coder GitHub Trophies" />
   </a>
-</p> -->
+</p>
 
-<!-- <p align="center">
+ <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishesh-coder&theme=dracula" alt="Vishesh-coder GitHub Streak" />
   </a>
-</p> -->
+</p>
