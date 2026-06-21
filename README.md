@@ -10,7 +10,7 @@
 
 A student currently pursuing B.Tech in Electronics & Communications and following passion !
 
-- 🌱 Gave JEE 2025!
+- 🌱 Everyday improving self !
 
 - 📫 To reach me, email: visheshbindal2007@gmail.com
 
