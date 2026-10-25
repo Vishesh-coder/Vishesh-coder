@@ -1,6 +1,10 @@
 <div align="center">
 
-  <h1>Hi there, I'm Vishesh Bindal 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00F5D4&text=VISHESH&height=150&fontSize=100&fontAlignY=65&animation=twinkling" />
+</div>
+
+  <!--<h1>Hi there, I'm Vishesh Bindal 👋</h1>-->
 
   <!-- Typing Subtitle -->
   <a href="https://visheshbindal.netlify.app/">
@@ -19,7 +23,7 @@
     <a href="https://visheshbindal.blogspot.com/"><img src="https://img.shields.io/badge/Blog-Tech%20Blog-FB8C00?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>
   </p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,24&height=120&section=header" width="100%" alt="Header Divider" />
+  <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,24&height=120&section=header" width="100%" alt="Header Divider" />-->
 
 </div>
 
