@@ -33,8 +33,7 @@
 
 I am an **Electronics & Communication Engineering** student at **Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat**, passionate about the intersection of **hardware**, **embedded firmware**, and **intelligent computing systems**.
 
-- 🎓 **Education**: B.Tech in Electronics & Communication Engineering @ **SVNIT Surat**.
-- ⚡ **Silicon & Embedded Systems**: Implementing digital logic architectures in **Verilog HDL** (synthesizable combinational & sequential designs, testbench verification) and building real-time microcontroller firmware with **ESP32** and **Arduino**.
+- ⚡ **Digital & Embedded Systems**: Implementing digital logic architectures in **Verilog HDL** (synthesizable combinational & sequential designs, testbench verification) and building real-time microcontroller firmware with **ESP32** and **Arduino**.
 - 🧠 **AI & Machine Learning**: **Rank 1** in Kaggle Bike-Share Demand Forecasting Competition. Experienced with Scikit-learn, PyTorch, TensorFlow, Pandas, and exploratory data analysis.
 - ☁️ **Cloud, Systems & Tools**: Proficient with **Google Cloud Platform (GCP)**, Linux, Git, ARM Assembly, C, and C++.
 
