@@ -62,10 +62,10 @@ I am an **Electronics & Communication Engineering** student at **Sardar Vallabhb
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Vishesh-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="175" alt="Vishesh's GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=Vishesh-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="175" alt="Vishesh's GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishesh-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="175" alt="Most Used Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vishesh-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="175" alt="Most Used Languages" />
       </td>
     </tr>
   </table>
