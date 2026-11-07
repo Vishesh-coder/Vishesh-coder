@@ -73,7 +73,7 @@ I am an **Electronics & Communication Engineering** student at **Sardar Vallabhb
   <br />
 
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Vishesh-coder&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    <img src="https://streak-stats.vercel.app/?user=Vishesh-coder&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 </div>
 
